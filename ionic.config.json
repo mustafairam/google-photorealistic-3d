@@ -1,0 +1,7 @@
+{
+  "name": "google-photorealistic-3d",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
